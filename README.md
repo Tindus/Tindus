@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 🌐
 
-> 🔭 I'm a full stack developer! <br/>
+> 🔭 I'm a full stack developer! I develop professional websites and gamemodes/systems for SA-MP <br/>
 
 ### 📋 Programming Languages:
    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
